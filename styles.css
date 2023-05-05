@@ -184,7 +184,6 @@ a {
 }
 
 .gallery li {
-  flex-basis: calc((100% -5 * 16px) / 6);
   border-radius: 16px;
   overflow: hidden;
 }
